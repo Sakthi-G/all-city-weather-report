@@ -1,0 +1,16 @@
+{
+  "name": "all-city-weather-report",
+  "version": "1.0.4",
+  "description": "It is used to fetch the cities weather report",
+  "main": "timeZone.js",
+  "keywords": [
+    "weather-data",
+    "cities-weather-data"
+  ],
+  "author": "Sakthivel Ganapathy",
+  "repository": "https://github.com/Sakthi-G/all-city-weather-report",
+  "license": "ISC",
+  "files": [
+    "timeZone.js"
+  ]
+}
